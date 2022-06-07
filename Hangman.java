@@ -1,8 +1,8 @@
 //Authors: Fiony Van & Rita Lu
-//Teacher: Ms. Jansen
+//Teacher: Ms. J**
 //Date: June 6, 2015
 //Class code: ICS3U1-01
-//School: Harbord Collegiate Institute
+//School: ***
 //Purpose: This game, "Hangman", will require a user to guess the letters to a given word in a chosen category. 
 
 import java.awt.Color;
